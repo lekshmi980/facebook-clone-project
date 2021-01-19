@@ -1,0 +1,21 @@
+.birthdays {
+  display:flex;
+  position:absolute;
+  top:10px;
+  right:100px;
+  width:40px;
+  
+}
+.birthdays__avatar{
+    margin-right: 25px;
+    bottom: 5px;
+    width:900%;
+    place-items:right;
+    
+
+}
+.birthdays > h3 {
+
+    bottom: 10px;
+    left: 10px;
+}
